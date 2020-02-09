@@ -13,7 +13,7 @@ This is an individual project for mmed-1056 based-off the year-end project. It i
 - [ ] All ﬁles must be uploaded to GitHub following the best practices taught in Authoring.
 > ONLY THE MASTER BRANCH WILL BE GRADED. Secondary branches should be named appropriately.  
 
-Check the [Assignment Outline](../blob/master/assets/MMED-1056/midterm_final_integrated-2020.pdf "Midterm Outline") for more information.
+Check the [Assignment Outline](../master/assets/MMED-1056/midterm_final_integrated-2020.pdf "Midterm Outline") for more information.
 
 #### General Requirements
 Only requires adobe, a text editor and github.

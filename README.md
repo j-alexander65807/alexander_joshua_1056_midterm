@@ -14,9 +14,9 @@ Clone this to a location of your choice and start editing.
 ### Checklist
 - [ ] 5 pages (Flexbox).
 - [ ] Include a Document Outline in the assets folder. [Link to Outline](../master/assets/documentOutline.pdf "Document Outline") 
-- [ ] Include 3 wireframes for the website in the assets folder. [Link to Wireframes](../master/assets/wirframes.pdf "Wireframes") 
+- [x] Include 3 wireframes for the website in the assets folder. [Link to Wireframes](../master/assets/wirframes.pdf "Wireframes") 
 - [ ] Implement CSS3 animation and include research.
-- [ ] Include the ﬁrst-draft vectorized logo from the FIP. 
+- [x] Include the ﬁrst-draft vectorized logo from the FIP. [Link to Vector Logo](../master/images/logo.svg "Logo") 
 - [ ] All ﬁles must be uploaded to GitHub following the best practices taught in Authoring.
 > ONLY THE MASTER BRANCH WILL BE GRADED. Secondary branches should be named appropriately.  
 
